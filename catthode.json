@@ -1,0 +1,26 @@
+{
+    "name": "Catthode",
+    "type": "custom",
+    "Background": "#000000",
+    "Foreground": "#FFFFFF",
+    "LightBlue": "#9CD9E6",
+    "AccentBlue": "#9CD9E6",
+    "AccentPurple": "#EBA4BE",
+    "AccentCyan": "#AEE6D6",
+    "AccentGreen": "#B9D665",
+    "AccentYellow": "#D9B98C",
+    "AccentRed": "#FF6B6B",
+    "Comment": "#757575",
+    "Gray": "#636363",
+    "DiffAdded": "#B9D665",
+    "DiffRemoved": "#FF6B6B",
+    "DiffModified": "#FFB86C",
+    "GradientColors": ["#FFB86C", "#FF9E3B", "#F08D49"],
+    "text": {
+        "primary": "#FFFFFF",
+        "secondary": "#E8E8E8",
+        "link": "#9CD9E6",
+        "accent": "#FF9E3B",
+        "response": "#FFFFFF"
+    }
+}
