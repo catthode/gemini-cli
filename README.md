@@ -92,11 +92,15 @@ Catthode is a high-contrast, retro-futuristic theme designed for prolonged codin
             "DiffAdded": "#B9D665",
             "DiffRemoved": "#FF6B6B",
             "DiffModified": "#FFB86C",
-            "GradientColors": ["#FFB86C", "#FF9E3B", "#F08D49"],
+            "GradientColors": [
+                "#FFB86C",
+                "#FF9E3B",
+                "#F08D49"
+            ],
             "text": {
                 "primary": "#FFFFFF",
                 "secondary": "#E8E8E8",
-                "link": "#9CD9E6",
+                "link": "#D9B98C",
                 "accent": "#FF9E3B",
                 "response": "#FFFFFF"
             }
